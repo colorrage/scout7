@@ -1,0 +1,1 @@
+../.claude/skills/install-scout/scripts/install.sh
